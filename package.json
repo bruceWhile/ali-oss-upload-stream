@@ -1,0 +1,24 @@
+{
+  "name": "oss-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ossupload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruceWhile/ali-oss-upload-stream.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruceWhile/ali-oss-upload-stream/issues"
+  },
+  "homepage": "https://github.com/bruceWhile/ali-oss-upload-stream#readme",
+  "dependencies": {
+    "form-data": "^2.3.3",
+    "request": "^2.88.0"
+  }
+}
